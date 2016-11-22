@@ -18,6 +18,7 @@
 
     <!-- Blackout theme -->
     <color name="blackout_bg">#ff000000</color>
+    <color name="primary_color_blackout">#ff101010</color>
 
     <color name="holo_list_background_color">@color/blackout_bg</color>
 
@@ -38,6 +39,11 @@
     <color name="dialtacts_secondary_text_color">#b3ffffff</color>
 
     <color name="people_contact_tile_status_color">#ffffffff</color>
+
+    <color name="actionbar_background_color">@color/primary_color_blackout</color>
+    <color name="actionbar_background_color_dark">@color/blackout_bg</color>
+
+    <color name="frequently_contacted_title_color">#0288d1</color>
 
     <color name="searchbox_text_color">#ffffffff</color>
     <color name="searchbox_background_color">@color/blackout_bg</color>
